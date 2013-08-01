@@ -1,0 +1,100 @@
+body {
+  background: #f1ecd1;
+  color: #555;
+  font-family: nobile;
+}
+
+a {
+  color: #0088cc;
+}
+
+a.tool {
+  margin-left: 30px;
+}
+
+a:hover {
+  color: #0088cc;
+  border-bottom: 1px dotted #0088cc;
+  text-decoration: none;
+}
+
+p {
+  line-height: 1.8;
+}
+
+h1, h2 {
+  font-weight: normal;
+  line-height: 1;
+}
+
+h3 {
+  font-size: 14px;
+  margin: 0 0 1em;
+  line-height: 1em;
+}
+
+.subhead {
+  font-weight: normal;
+  font-size: 14px;
+  margin: 0 0 1em 0px;
+  line-height: 1em;
+  color: #777;
+  font-variant: small-caps;
+}
+
+.topnav {
+  background: #0088cc;
+}
+
+.topnav a {
+  display: inline-block;
+  padding: 15px 40px 15px 0px;
+  font-size: 12px;
+  color: #fff;
+}
+
+.search,
+.main,
+.orghead {
+  background: #30ae55;
+  padding: 60px 0;
+}
+
+.search,
+.orghead {
+  color: #fff;
+}
+
+.main {
+  background: #f1ecd1;
+}
+
+.grantsearch {
+  font-size: 2em!important;
+  line-height: 2em!important;
+  height: auto!important;
+  font-family: nobile;
+  width: 600px;
+}
+
+.orghead {
+  padding: 30px 0;
+}
+
+.org h2 {
+  margin-bottom: 0;
+}
+
+.grants {
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+.grant h3 {
+  font-weight: normal;
+}
+
+.grant h3 span,
+.grant h3 a {
+  font-weight: bold;
+}
